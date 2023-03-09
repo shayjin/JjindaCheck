@@ -34,6 +34,14 @@ Bill Jebs
 2. 인공지능 평가 기준
     - 문맥에 따라 인싸가 썻는지 찐따가 쓴 단어인지 확률 계산 -> 평균값 계산
     - 인지하지 못하는 단어가 나왔을때 찐따 단어 (0점) 로 계산
+## Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### <홍보안>
 1. 인스타그램 릴스, 유튜브 쇼츠 등의 비교적 쉽게 노출될 수 있는 플랫폼으로 바이럴 마케팅 시전
